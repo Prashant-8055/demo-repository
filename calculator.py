@@ -7,7 +7,11 @@ def subtract(x, y):
     return x - y
 # we are adding new function
 
-def multiply(x, y):
+<<<<<<< HEAD
+=======
+#lets add a new function here 
+def multiply(x, y): 
+>>>>>>> 0658b8d7b044db32fd10e2738dff5e8dc78b4b47
     """Multiplies two numbers and returns the result."""
     return x * y
 
