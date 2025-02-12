@@ -6,7 +6,8 @@ def subtract(x, y):
     """Subtracts two numbers and returns the result."""
     return x - y
 
-def multiply(x, y):  # New function
+#lets add a new function here 
+def multiply(x, y): 
     """Multiplies two numbers and returns the result."""
     return x * y
 
